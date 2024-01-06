@@ -1,5 +1,5 @@
 // simonSays Game with lights
-//Start the game by pressing any key.simonSays game is sequence game where you have to remember the sequence of light,than you have to follow the same sequence(previous lights will also be added in sequence),If you press the wrong sequence than red flads would be there,which ends the game, than the score will be calculated and will be shown.
+//Start the game by pressing any key.simonSays game is sequence game where you have to remember the sequence of light,than you have to follow the same sequence(previous lights will also be added in sequence),If you press the wrong sequence than red flash would be there,which ends the game, than the score will be calculated and will be shown.
 // agaijn you can start the game by pressing any key.
 // By using the concepts of JS DOM
 let gameSeq=[];
